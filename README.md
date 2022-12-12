@@ -1,9 +1,3 @@
-<div align="center">
-
-![React logo](assets/react.png "React logo")
-![Spring Boot logo](assets/springboot.png "Sprint boot logo")
-</div>
-
 # FastLiteMessage ![build status](https://github.com/Thibaut-Mouton/react-spring-messenger-project/workflows/maven/badge.svg?branch=master)
 
 Real time chat application group oriented built with React and Spring Boot. Talk with your friends, create and add users to conversation, send messages or images, set groups administrators and start video calls ! (coming soon)
