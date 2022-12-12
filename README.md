@@ -35,7 +35,7 @@ Changelog for next version :
 
 # Project overview
 
-![Project overview](assets/messenger.jpg?raw=true "Project overview")
+![Project overview]
 
 * Simple chat group application based on websocket
 * Send images
