@@ -6,6 +6,7 @@
 - NodeJS
 - MySQL Server
 - Apache Maven
+- Liquibase
 
 #### Project set up
 
