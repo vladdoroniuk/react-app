@@ -35,8 +35,6 @@ Changelog for next version :
 
 # Project overview
 
-![Project overview]
-
 * Simple chat group application based on websocket
 * Send images
 * Secure user account based on Spring Security JWT
