@@ -5,6 +5,7 @@
 - JDK 8
 - NodeJS
 - MySQL Server
+- Apache Maven
 
 #### Project set up
 
