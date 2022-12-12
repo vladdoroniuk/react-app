@@ -1,5 +1,3 @@
-## Start-up :
-
 #### Project Requirements
 
 - JDK 8
