@@ -13,8 +13,8 @@
 - You can edit ````spring.datasource```` in ```backend/src/main/resources/application.properties```  and ```username``` and ```password``` in ```backend/src/main/resources/liquibase.properties``` with your own SQL login / password
 - Create a database named "websocket" or you can also modify the name in the properties files mentioned just above.
 
-##### Start server
+#### Start server
 - Go inside backend folder then type  ```mvn spring-boot:run``` to launch backend.
 - Or you can type ```mvn clean package``` to generate a JAR file and then start server with ```java -jar path/to/jar/file``` (Normally in inside backend/target/)
-##### Start frontend
+#### Start frontend
 - Go inside frontend-web folder and then type ```npm react-scripts start```
